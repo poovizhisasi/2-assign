@@ -1,0 +1,39 @@
+
+body{
+background-color: rgb(246, 243, 248);font-family: 'Times New Roman', Times, serif;
+}
+header{
+background-color: rgb(173, 135, 162);
+width: 96%;
+padding: 30px;
+font-size: 22px;
+display: flex;
+justify-content:space-between;
+}
+.logo{
+color: rgb(37, 43, 22);
+text-decoration: none;
+font-size: 25px;
+font-family:cursive;
+padding-top: 3px;
+
+}
+a{
+text-decoration: none; 
+padding: 15px;
+}
+footer{
+background-color:  rgb(95, 56, 83);
+font-style: italic;
+padding-right: 20%;
+padding-top: 3%;
+padding-bottom:4%;
+
+}
+h1, ul, li{
+font-family: cursive; font-style: italic;text-align: center;padding-bottom: 1%;
+}
+h1 {
+   text-shadow: 4px 4px 10px green;
+}
+
